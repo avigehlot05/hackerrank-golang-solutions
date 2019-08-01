@@ -13,7 +13,7 @@ import (
 )
 
 func main(){
-	var n,min,max,cmin,cmax int
+	var i,n,min,max,cmin,cmax int
 	fmt.Scan(&n)
 
 	for i:=0;i<n;i++{
